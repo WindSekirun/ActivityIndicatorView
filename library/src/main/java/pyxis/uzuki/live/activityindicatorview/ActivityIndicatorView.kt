@@ -51,11 +51,6 @@ class ActivityIndicatorView(context: Context, private val attrs: AttributeSet? =
     private fun initView() {
         this.background = getDrawableCompat(R.drawable.indicator)
 
-        if(isInEditMode) {
-            this.background = getDrawableCompat(R.drawable.indicator_3)
-            return
-        }
-
         if (attrs != null) {
             val typedArray = context.theme.obtainStyledAttributes(attrs, R.styleable.ActivityIndicatorView, 0, 0)
             duration = typedArray.getInteger(R.styleable.ActivityIndicatorView_duration, DEFAULT_DURATION)
