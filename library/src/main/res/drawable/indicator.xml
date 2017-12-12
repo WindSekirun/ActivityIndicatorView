@@ -1,0 +1,40 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+
+    <item
+        android:drawable="@drawable/indicator_0"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/indicator_1"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/indicator_2"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/indicator_3"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/indicator_4"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/indicator_5"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/indicator_6"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/indicator_7"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/indicator_8"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/indicator_9"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/indicator_10"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/indicator_11"
+        android:duration="60"/>
+</animation-list>

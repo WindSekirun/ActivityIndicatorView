@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ActivityIndicatorView">
+        <attr name="indicatorColor" format="color" />
+        <attr name="duration" format="integer" />
+        <attr name="clockwise" format="boolean"/>
+        <attr name="oneShot" format="boolean"/>
+        <attr name="autoPlay" format="boolean"/>
+    </declare-styleable>
+</resources>
