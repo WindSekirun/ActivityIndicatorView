@@ -2,6 +2,9 @@
 
 bring [UIActivityIndicatorView](https://developer.apple.com/documentation/uikit/uiactivityindicatorview) in Android Application.
 
+![](https://github.com/WindSekirun/ActivityIndicatorView/blob/master/art/image.gif)
+
+
 ### Usages
 *rootProject/build.gradle*
 ```	
