@@ -1,6 +1,8 @@
 ## ActivityIndicatorView [![CircleCI](https://circleci.com/gh/WindSekirun/ActivityIndicatorView.svg?style=svg)](https://circleci.com/gh/WindSekirun/ActivityIndicatorView) [![](https://jitpack.io/v/WindSekirun/ActivityIndicatorView.svg)](https://jitpack.io/#WindSekirun/ActivityIndicatorView)
 
-bring [UIActivityIndicatorView](https://developer.apple.com/documentation/uikit/uiactivityindicatorview) in Android Application.
+[![Kotlin](https://img.shields.io/badge/kotlin-1.2.0-blue.svg)](http://kotlinlang.org)	[![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0)
+
+bring [UIActivityIndicatorView](https://developer.apple.com/documentation/uikit/uiactivityindicatorview) in Android Application, written in [Kotlin](http://kotlinlang.org)
 
 ![](https://github.com/WindSekirun/ActivityIndicatorView/blob/master/art/image.gif)
 
