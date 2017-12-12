@@ -1,4 +1,4 @@
-## ActivityIndicatorView [![CircleCI](https://circleci.com/gh/WindSekirun/ActivityIndicatorView.svg?style=svg)](https://circleci.com/gh/WindSekirun/ActivityIndicatorView)
+## ActivityIndicatorView [![CircleCI](https://circleci.com/gh/WindSekirun/ActivityIndicatorView.svg?style=svg)](https://circleci.com/gh/WindSekirun/ActivityIndicatorView) [![](https://jitpack.io/v/WindSekirun/ActivityIndicatorView.svg)](https://jitpack.io/#WindSekirun/ActivityIndicatorView)
 
 bring [UIActivityIndicatorView](https://developer.apple.com/documentation/uikit/uiactivityindicatorview) in Android Application.
 
