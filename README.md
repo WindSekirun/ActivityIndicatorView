@@ -4,8 +4,7 @@
 
 bring [UIActivityIndicatorView](https://developer.apple.com/documentation/uikit/uiactivityindicatorview) in Android Application, written in [Kotlin](http://kotlinlang.org)
 
-![](https://github.com/WindSekirun/ActivityIndicatorView/blob/master/art/image.gif)
-
+<img src="https://github.com/WindSekirun/ActivityIndicatorView/blob/master/art/image.gif" width="202" height="360">
 
 ### Usages
 *rootProject/build.gradle*
